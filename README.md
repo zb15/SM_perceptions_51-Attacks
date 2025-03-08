@@ -3,7 +3,7 @@ This repository contains our research on 51% attacks on Proof-of-Work (PoW) cryp
 
 If you use it, please cite
 ```
-Baruwa Z, Bhattacherjee S, Chandnani S R, Zhu Z (2025)
+Baruwa Z, Bhattacherjee S, Chandnani S R, and Zhu Z (2025)
 Social Media Perceptions of 51% Attacks on Proof-of-Work Cryptocurrencies: A Natural Language Processing Approach
 url: https://github.com/zb15/SM_perceptions_51-Attacks
 ```
