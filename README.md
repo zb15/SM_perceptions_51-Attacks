@@ -15,7 +15,7 @@ url: https://github.com/zb15/SM_perceptions_51-Attacks
 
 
 ## Analysis
-Our analysis can be 
+Our analysis can be reached in this repository or 
 <a href="https://colab.research.google.com/github/zb15/SM_perceptions_51-Attacks/blob/main/SM_Perceptions_51__attacks.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Authors ORCIDs
