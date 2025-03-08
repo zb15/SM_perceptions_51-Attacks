@@ -15,7 +15,7 @@ url: https://github.com/zb15/SM_perceptions_51-Attacks
 
 
 ## Analysis
-Our analysis located at [https://github.com/zb15/SM_perceptions_51-Attacks/SM_Perceptions_51__attacks.ipynb](https://github.com/zb15/SM_perceptions_51-Attacks/SM_Perceptions_51__attacks.ipynb)
+Our analysis located at [https://github.com/zb15/SM_perceptions_51-Attacks/blob/main/SM_Perceptions_51__attacks.ipynb](https://github.com/zb15/SM_perceptions_51-Attacks/blob/main/SM_Perceptions_51__attacks.ipynb)
 
 
 ## Author ORCIDs
