@@ -1,1 +1,5 @@
-In order to save datasets as a .csv file, right click on "Raw" and choose "Save link as" 
+In order to save datasets as a .csv file, 
+ - right click on "Raw" and choose "Save link as" 
+ - add ".csv" at the end of the file name
+ - choose "All files" as type
+ - save the file.
