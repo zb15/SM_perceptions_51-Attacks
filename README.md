@@ -15,3 +15,8 @@ url: https://github.com/zb15/SM_perceptions_51-Attacks
 
 
 ## Analysis
+Our analysis located at [https://github.com/zb15/SM_perceptions_51-Attacks/SM_Perceptions_51__attacks.ipynb](https://github.com/zb15/SM_perceptions_51-Attacks/SM_Perceptions_51__attacks.ipynb)
+
+
+## Author ORCIDs
+[![ORCID: Baruwa](https://img.shields.io/badge/ORCID-0000--0003--2933--0890-brightgreen)](https://orcid.org/0000-0003-2933-0890)
