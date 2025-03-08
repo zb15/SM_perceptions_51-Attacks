@@ -1,1 +1,1 @@
-In order to save datasets as a .csv file, right click on "raw" and choose "save link as" 
+In order to save datasets as a .csv file, right click on "Raw" and choose "Save link as" 
