@@ -1,7 +1,7 @@
 # Social Media Perceptions of 51% Attacks on Proof-of-Work Cryptocurrencies: A Natural Language Processing Approach
 This repository contains the datasets and code for our analysis to accompany our research on 51% attacks on Proof-of-Work (PoW) cryptocurrencies. From our first-of-its-kind comprehensive list of such attacks provided in our paper, we collected datasets from Twitter (now X) for 17 events. We provide the cleaned whole datasets, attack subsets, and benchmark datasets for these events. We also included some aggregated datasets, which are outputs from our analysis and used for visualizations. Additionally, we provide our code for the analysis.
 
-If you use it, please cite
+When you use materials from this repository, please cite
 ```
 Baruwa Z, Bhattacherjee S, Chandnani S R, and Zhu Z (2025)
 Social Media Perceptions of 51% Attacks on Proof-of-Work Cryptocurrencies: A Natural Language Processing Approach
@@ -20,3 +20,5 @@ Our analysis can be reached in this repository or
 
 ## Authors ORCIDs
 Zsofia Baruwa [![ORCID: Baruwa](https://img.shields.io/badge/ORCID-0000--0003--2933--0890-brightgreen)](https://orcid.org/0000-0003-2933-0890)
+Sanjay Bhattacherjee [![ORCID: Baruwa](https://img.shields.io/badge/ORCID-0000--0002--3367--6192-brightgreen)](https://orcid.org/0000-0002-3367-6192)
+Zhen Zhu [![ORCID: Baruwa](https://img.shields.io/badge/ORCID-0000--0003--0258--1454-brightgreen)](https://orcid.org/0000-0003-0258-1454)
