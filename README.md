@@ -3,8 +3,8 @@ This repository contains the datasets and code for our analysis to accompany our
 
 When you use materials from this repository, please cite
 ```
-Baruwa Z, Bhattacherjee S, Chandnani S R, and Zhu Z (2025)
-Social Media Perceptions of 51% Attacks on Proof-of-Work Cryptocurrencies: A Natural Language Processing Approach
+<!--Baruwa Z, Bhattacherjee S, Chandnani S R, and Zhu Z (2025)
+Social Media Perceptions of 51% Attacks on Proof-of-Work Cryptocurrencies: A Natural Language Processing Approach -->
 url: https://github.com/zb15/SM_perceptions_51-Attacks
 ```
 
