@@ -110,9 +110,9 @@ MyData_en['sentiment_score'] = MyData_en.apply(lambda x: getSentScore(x['clean_c
 
 def getSentCat(text):
   myScore = sia.polarity_scores(text)['compound']
-  if myScore > 0:
+  if myScore >= 0.0005:
     myCat = 'positive'
-  elif myScore < 0:
+  elif myScore <= -0.0005:
     myCat = 'negative'
   else:
     myCat = 'neutral'
